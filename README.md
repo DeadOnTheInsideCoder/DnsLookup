@@ -4,10 +4,10 @@
 
 You can specify 2 arguments:<br/>
 
-  First Argument is the host<br />
-  Second Argument is the path<br />
+  1) Host.<br />
+  2) Path.<br />
   
-Or you can specify the inputs later.
+Or you can specify the inputs without arguments later.
 
 <hr />
 
