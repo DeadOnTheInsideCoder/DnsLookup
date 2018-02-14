@@ -18,7 +18,7 @@ It returns both Ipv4 + Ipv6 addresses(if exists)<br />
 
     python dnsLookup.py www.google.com c://Somepath/Somepath/output.txt
     
-<h2>OR<h2>
+<h2>OR</h2>
 
     python dnsLookup.py
     [?]Host >>
